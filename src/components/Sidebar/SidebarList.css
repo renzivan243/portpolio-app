@@ -1,0 +1,4 @@
+.nav-item .active{
+    border-left: 2px solid rgb(2, 2, 2);
+    color: rgb(7, 7, 7);
+}
